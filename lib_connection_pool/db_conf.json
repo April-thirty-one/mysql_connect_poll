@@ -1,0 +1,11 @@
+{
+    "ip": "192.168.43.198",
+    "port": 3306,
+    "user_name": "admin",
+    "password": "cyp774940",
+    "db_name": "ChengYaPeng",
+    "min_size": 10,
+    "max_size": 100,
+    "timeout": 1000,
+    "max_idle_time": 5000
+}
